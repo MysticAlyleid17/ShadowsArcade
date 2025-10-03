@@ -1,29 +1,84 @@
-# Create T3 App
+# 🎮 Shadows Arcade
 
-This is a [T3 Stack](https://create.t3.gg/) project bootstrapped with `create-t3-app`.
+Welcome to **Shadows Arcade** – your pixel playground powered by React, TypeScript, and NextJS!  
+Whether you’re here to play, hack, or just peek under the hood, you’re in for a treat.  
+This repo is where arcade magic happens… or at least, where it’s brewing!
 
-## What's next? How do I make an app with this?
+---
 
-We try to keep this project as simple as possible, so you can start with just the scaffolding we set up for you, and add additional things later when they become necessary.
+## 🚀 Quickstart
 
-If you are not familiar with the different technologies used in this project, please refer to the respective docs. If you still are in the wind, please join our [Discord](https://t3.gg/discord) and ask for help.
+1. **Clone the repo:**  
+   ```bash
+   git clone https://github.com/MysticAlyleid17/ShadowsArcade.git
+   cd shadowsarcade
+   ```
+2. **Install dependencies:**  
+   ```bash
+   npm install
+   ```
+3. **Launch the arcade (dev):**  
+   ```bash
+   npm run dev
+   ```
+   Then visit [localhost:3000](http://localhost:3000) and let the games begin!
+   
+4. **Need a production preview?**
+    ```bash
+    npm run preview
+    ```
 
-- [Next.js](https://nextjs.org)
-- [NextAuth.js](https://next-auth.js.org)
-- [Prisma](https://prisma.io)
-- [Drizzle](https://orm.drizzle.team)
-- [Tailwind CSS](https://tailwindcss.com)
-- [tRPC](https://trpc.io)
+---
 
-## Learn More
+## ✨ What’s Inside
 
-To learn more about the [T3 Stack](https://create.t3.gg/), take a look at the following resources:
+- **Next.js 15 + React 19 + TypeScript**  
+  Modern, fast, and DX-friendly.
 
-- [Documentation](https://create.t3.gg/)
-- [Learn the T3 Stack](https://create.t3.gg/en/faq#what-learning-resources-are-currently-available) — Check out these awesome tutorials
+- **Website only**  
+  This repo hosts the website. Games themselves may live in separate repos.
 
-You can check out the [create-t3-app GitHub repository](https://github.com/t3-oss/create-t3-app) — your feedback and contributions are welcome!
+- **Quality tools**  
+  ESLint, Prettier, and type-checking to keep things tidy.
 
-## How do I deploy this?
+- **Arcade hub**  
+  Mini-games, screens, and pixel fun. See the [Related links](#-related-links) to explore.
 
-Follow our deployment guides for [Vercel](https://create.t3.gg/en/deployment/vercel), [Netlify](https://create.t3.gg/en/deployment/netlify) and [Docker](https://create.t3.gg/en/deployment/docker) for more information.
+---
+
+## 🛠️ Developer Zone
+  🧑‍💻 Scripts you’ll use
+
+  ```bash
+  npm run dev       # Start Next.js in dev mode
+  npm run build     # Production build
+  npm run start     # Start the production server
+  npm run preview   # Build then start (one command)
+  npm run lint      # Lint the codebase
+  npm run check     # Lint + TypeScript check 
+  ```
+Want to add your own game or feature? Fork, code, and open a PR – we love contributors!  
+Note: This repo hosts the website. To add content to a specific game, head to the appropriate game repository.
+
+## 🔗 Related links
+- Coming soon
+
+---
+
+## 🤩 Fun Facts
+
+- Built with love by [MysticAlyleid17](https://github.com/MysticAlyleid17)
+- We welcome wild game ideas – the weirder, the better
+- If you break it, you get bonus points (kidding – please open an issue)
+
+---
+
+## 📬 Join the Arcade
+
+Questions? Suggestions?  
+Open an [issue](https://github.com/MysticAlyleid17/ShadowsArcade/issues), start a discussion, or just say hi!
+
+---
+
+Happy coding and gaming!  
+May your bugs be rare and your high scores legendary.  
